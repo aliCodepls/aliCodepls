@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 CS student at FAST-NUCES building full-stack apps (React, Node.js) and AI systems (LLMs, RAG). Focuses on privacy-first tools and clean frontends. Tech: Python, React, Node.js, Java, C++, LLMs.
 
 
